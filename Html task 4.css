@@ -1,0 +1,60 @@
+.div1{
+	height: 5400px;
+	width: 100%;
+	background: white;
+}
+.div2{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.div3{
+	height: 600px;
+	width: 100%;
+	background: skyblue;
+}
+.div4{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.div5{
+	height: 600px;
+	width: 100%;
+	background: skyblue;
+}
+.div6{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.div7{
+	height: 600px;
+	width: 100%;
+	background: skyblue;
+}
+.div8{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.div9{
+	height: 600px;
+	width: 100%;
+	background: skyblue;
+}
+.div10{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+img{
+	align-items: bottom;
+	height: 400px;
+	width: 400px; 
+}
+h1{
+	color: orange;
+	font-size: 50px;
+	font-family: cursive;
+}

@@ -1,0 +1,8 @@
+div{
+	height: 400px;
+	width: 400px;
+	background-image: url(logo.png);
+	border: 5px solid red;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

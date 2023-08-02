@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	text-shadow: 2px 2px 3px green,5px 5px 4px yellow;
+}
+div{
+	height: 300px;
+	width: 300px;
+	border: 2px solid;
+}
+p{
+	text-align: justify;
+	text-transform: uppercase;
+	text-align: 2px right;
+}
